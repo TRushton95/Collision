@@ -46,5 +46,7 @@ int main(int argc, char* argv[])
 	gWindow = NULL;
 	SDL_Quit();
 
+	printf("SDL app gracefully shut down\n");
+
 	return 0;
 }
