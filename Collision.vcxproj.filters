@@ -24,5 +24,16 @@
     <ClCompile Include="Vector2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\HerdingCats\Src\HerdingCats\player.png">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="..\HerdingCats\Src\HerdingCats\wall.png">
+      <Filter>Source Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

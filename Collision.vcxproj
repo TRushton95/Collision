@@ -136,7 +136,12 @@
   <ItemGroup>
     <ClCompile Include="Box.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Timer.cpp" />
     <ClCompile Include="Vector2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\HerdingCats\Src\HerdingCats\player.png" />
+    <Image Include="..\HerdingCats\Src\HerdingCats\wall.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
